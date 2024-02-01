@@ -1,2 +1,4 @@
-# ML_Project
-Machine learning projects using python
+# Credit Card Fraud Detection using Machine learning
+
+Using Logistic Regression Algorithm
+
